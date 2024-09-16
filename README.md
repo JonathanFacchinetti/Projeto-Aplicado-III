@@ -10,6 +10,13 @@ Este projeto busca entender como a taxa de inflação e a taxa básica de juros 
 
 O projeto está alinhado com o Objetivo de Desenvolvimento Sustentável 8 (Trabalho Decente e Crescimento Econômico), visando garantir que o crescimento econômico seja acompanhado pela criação de empregos dignos e pelo respeito aos direitos humanos e trabalhistas. O ODS 8, parte dos Objetivos de Desenvolvimento Sustentável (ODS) estabelecidos pela Organização das Nações Unidas (ONU), visa promover o crescimento econômico sustentável, inclusivo e sustentável, além de garantir o trabalho decente para todos. Ele reconhece que o crescimento econômico por si só não é suficiente; é igualmente importante que esse crescimento seja acompanhado pela criação de empregos dignos e pelo respeito aos direitos humanos e trabalhistas.
 
+## Integrantes da equipe
+
+- **Carlos Suetiro Kaeriyama** - Matrícula: 10368966
+- **Gabriela Germana da Silva** - Matrícula: 10369542
+- **Jonathan Henrique Gomes da Paz Facchinetti** - Matrícula: 10369278
+- **Vanessa Teofilo Ribeiro Dultra** - Matrícula: 10370294
+
 ### Apresentações sobre nosso projeto
 
 - Link para o vídeo de apresentação do projeto: [Vídeo de Apresentação](https://www.youtube.com/watch?v=8upwlok2nRQ&t=100s)
