@@ -1,6 +1,6 @@
 <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie.jpg" width="25%" align="right"/>
 
-# PROJETO APLICADO IV
+# PROJETO APLICADO III
 
 ## Explorando o Impacto das Taxas de Inflação e SELIC no Mercado de Ações Brasileiro: Previsões e Perspectivas para o Crescimento Econômico Sustentável
 
